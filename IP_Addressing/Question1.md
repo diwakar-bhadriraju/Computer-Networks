@@ -1,4 +1,4 @@
-# Question 1
+# Question 1 
 An organization is granted the block ________. The administrator wants to have ____ number of devices in each subnet . Find out the subnet mask.\
  ## **Input Format** \
 130.56.128.0/17 128 \
