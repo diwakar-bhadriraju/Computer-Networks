@@ -1,7 +1,7 @@
 # Question 1 &nbsp;
 An organization is granted the block ________. The administrator wants to have ____ number of devices in each subnet . Find out the subnet mask.&nbsp;
-**Input Format** &nbsp;
-130.56.128.0/17 128 &nbsp;
+**Input Format** \
+130.56.128.0/17 128 \
 **Constraints** &nbsp;
 Input IP in dotted decimal notation &nbsp;
 **Output Format**&nbsp;
