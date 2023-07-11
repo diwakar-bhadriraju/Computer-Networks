@@ -1,5 +1,4 @@
-## Assume that a FDMA/TDMA communication channel has a total of___ bandwidth and each radio sub channel c has an assigned bandwidth of___ with a guard bandwith of _. 
-Each sub channel is divided into ____ time slots. If each user is allocated a time slot, how many users can be supported by the communication channel totally?
+## Assume that a FDMA/TDMA communication channel has a total of___ bandwidth and each radio sub channel c has an assigned bandwidth of___ with a guard bandwith of _. Each sub channel is divided into ____ time slots. If each user is allocated a time slot, how many users can be supported by the communication channel totally?
 ### Input Format
 *24.6 Mhz
 .2 Mhz
